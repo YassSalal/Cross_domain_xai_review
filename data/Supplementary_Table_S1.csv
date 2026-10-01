@@ -1,0 +1,126 @@
+ref_id,short_cite,domain,output_form,metric_family,EWS,MI,MOAS
+1,Adadi & Berrada 2018,CML,Multiple,Functional,2,5,2
+2,Bach et al. 2015,CV,Heatmap,Functional,2,4,2
+3,Bastings & Filippova 2020,NLP,Attention map,Functional,2,3,1
+4,Bills et al. 2023,NLP,Natural language,Human-based,1,2,1
+5,Bricken et al. 2023,NLP,Concept vector,Functional,3,3,2
+6,Burger et al. 2023,NLP,Feature attribution,Functional,2,3,2
+7,Carvalho et al. 2019,CML,Multiple,Functional,2,5,2
+8,Chattopadhyay et al. 2018,CV,Heatmap,Functional,2,4,2
+9,Dai et al. 2021,NLP,Attribution graph,Functional,3,3,2
+10,Danilevsky et al. 2020,NLP,Multiple,Functional,2,4,2
+11,Feng et al. 2018,NLP,Feature attribution,Functional,2,4,1
+12,Fong & Vedaldi 2017,CV,Heatmap,Functional,2,4,2
+13,Fu et al. 2020,CV,Heatmap,Functional,2,3,2
+14,Garreau & Luxburg 2020,CML,Feature attribution,Functional,2,4,2
+15,Geva et al. 2020,NLP,Attribution graph,Functional,3,3,2
+16,Guidotti et al. 2018,CML,Multiple,Functional,2,5,2
+17,Jacovi & Goldberg 2020,NLP,Natural language,Human-based,2,4,2
+18,Kim et al. 2018,CV,Concept vector,Functional,2,4,2
+19,Koh & Liang 2017,CML,Prototype,Functional,3,4,2
+20,Kumar et al. 2020,CML,Feature attribution,Functional,3,4,2
+21,Lanham et al. 2023,NLP,Natural language,Human-based,3,3,2
+22,Laugel et al. 2018,CML,Feature attribution,Functional,2,3,2
+23,Linardatos et al. 2020,CML,Multiple,Functional,2,5,2
+24,Lundberg & Lee 2017,CML,Feature attribution,Functional,2,6,2
+25,Madsen et al. 2022,NLP,Multiple,Functional,2,4,2
+26,Marton et al. 2025,CML,Feature attribution,Functional,2,3,2
+27,Matton et al. 2025,NLP,Natural language,Human-based,3,3,2
+28,Meng et al. 2022,NLP,Attribution graph,Functional,3,4,2
+29,Molnar 2022,CML,Multiple,Functional,2,6,2
+30,Mosca et al. 2022,NLP,Feature attribution,Functional,2,4,2
+31,Mothilal et al. 2020,CML,Counterfactual,Functional,3,4,2
+32,Murdoch et al. 2019,CML,Multiple,Functional,2,5,2
+33,Nauta et al. 2023,CML,Multiple,Functional,2,5,2
+34,Han et al. 2026,NLP,Natural language,Human-based,2,2,2
+35,Petsiuk et al. 2018,CV,Heatmap,Functional,2,4,2
+36,Ribeiro et al. 2016,CML,Feature attribution,Functional,2,5,2
+37,Ribeiro et al. 2018,CML,Rule,Functional,2,4,2
+38,Rodis et al. 2024,NLP,Multiple,Functional,2,3,1
+39,Roscher et al. 2020,CV,Heatmap,Functional,2,4,2
+40,Samek et al. 2019,CML,Multiple,Functional,2,5,2
+41,Serrano & Smith 2019,NLP,Attention map,Functional,1,4,1
+42,Shrikumar et al. 2017,CV,Heatmap,Functional,2,4,2
+43,Slack et al. 2020,CML,Feature attribution,Functional,2,4,2
+44,Smilkov et al. 2017,CV,Heatmap,Functional,2,4,2
+45,Kokhlikyan et al. 2020,CV,Heatmap,Functional,2,5,2
+46,Vilone & Longo 2021,CML,Multiple,Functional,2,5,2
+47,Wang et al. 2020,CV,Heatmap,Functional,2,4,2
+48,Wang et al. 2023,NLP,Attribution graph,Functional,3,4,2
+49,Wei et al. 2022,NLP,Natural language,Human-based,1,4,1
+50,Wu & Ong 2021,NLP,Attention map,Functional,1,3,1
+51,Zeiler & Fergus 2014,CV,Heatmap,Functional,2,4,2
+52,Zhang et al. 2018,CV,Concept vector,Functional,2,4,2
+53,Zhou et al. 2016,CV,Heatmap,Functional,2,5,2
+54,Kitchenham & Charters 2007,M/S,,,,
+55,Brereton et al. 2007,M/S,,,,
+56,Page et al. 2021,M/S,,,,
+57,Doshi-Velez & Kim 2017,CML,Multiple,Functional,2,4,2
+58,Shea et al. 2017,M/S,,,,
+59,Lipton 2018,CML,Multiple,Functional,2,5,2
+60,Rudin 2019,CML,Rule,Functional,2,5,2
+61,Barredo Arrieta et al. 2020,CML,Multiple,Functional,2,6,2
+62,Mittelstadt et al. 2019,CML,Multiple,Human-based,2,4,1
+63,Wachter et al. 2017,CML,Counterfactual,Applied,3,4,2
+64,Verma et al. 2020,CML,Counterfactual,Applied,3,4,2
+65,Karimi et al. 2021,CML,Counterfactual,Applied,3,4,2
+66,Byrne 2019,CML,Counterfactual,Human-based,2,3,2
+67,Lundberg et al. 2020,CML,Feature attribution,Functional,2,5,2
+68,Aas et al. 2021,CML,Feature attribution,Functional,2,4,2
+69,Janzing et al. 2020,CML,Feature attribution,Functional,3,4,2
+70,Chen et al. 2020,CML,Feature attribution,Functional,2,4,2
+71,Alvarez-Melis & Jaakkola 2018,CML,Feature attribution,Functional,2,4,2
+72,Yeh et al. 2019,CML,Feature attribution,Functional,2,5,2
+73,Hooker et al. 2019,CML,Feature attribution,Functional,2,5,2
+74,Montavon et al. 2018,CV,Heatmap,Functional,2,5,2
+75,Ancona et al. 2018,CV,Heatmap,Functional,2,4,2
+76,Sundararajan et al. 2017,CV,Heatmap,Functional,2,5,2
+77,Selvaraju et al. 2017,CV,Heatmap,Functional,2,6,2
+78,Bau et al. 2017,CV,Concept vector,Functional,3,4,2
+79,explainX 2026,NLP,Multiple,Functional,2,2,1
+80,Olah et al. 2020,CV,Attribution graph,Functional,3,4,2
+81,Elhage et al. 2021,NLP,Attribution graph,Functional,3,4,2
+82,Korobov 2016,CML,Feature attribution,Functional,2,5,2
+83,Templeton et al. 2024,NLP,Concept vector,Functional,3,3,2
+84,Lieberum et al. 2024,NLP,Concept vector,Functional,3,3,2
+85,Nanda et al. 2023,NLP,Attribution graph,Functional,3,3,2
+86,Jain & Wallace 2019,NLP,Attention map,Functional,1,4,1
+87,Wiegreffe & Pinter 2019,NLP,Attention map,Functional,2,4,1
+88,Turpin et al. 2023,NLP,Natural language,Human-based,3,4,2
+89,Wang et al. 2023,NLP,Natural language,Human-based,1,3,1
+90,Creswell et al. 2023,NLP,Natural language,Human-based,2,3,2
+91,Lewis et al. 2020,NLP,Natural language,Human-based,2,4,2
+92,Gao et al. 2023,NLP,Natural language,Human-based,2,3,2
+93,Toneva et al. 2019,CML,Prototype,Functional,3,4,2
+94,Pruthi et al. 2020,CML,Prototype,Functional,3,4,2
+95,Ilyas et al. 2022,CML,Prototype,Functional,3,3,2
+96,Park et al. 2023,NLP,Concept vector,Functional,3,3,2
+97,Nanda et al. 2023b,NLP,Concept vector,Functional,3,3,2
+98,Zou et al. 2023,NLP,Attribution graph,Functional,3,3,2
+99,Turner et al. 2023,NLP,Attribution graph,Functional,3,3,2
+100,Li et al. 2023,NLP,Attribution graph,Functional,3,3,2
+101,Burns et al. 2023,NLP,Concept vector,Functional,3,3,2
+102,Azaria & Mitchell 2023,NLP,Natural language,Human-based,3,3,2
+103,Kadavath et al. 2022,NLP,Natural language,Human-based,3,3,2
+104,Wei et al. 2022b,NLP,Natural language,Human-based,1,3,1
+105,Bommasani et al. 2021,NLP,Multiple,Human-based,2,3,1
+106,Bender et al. 2021,NLP,Natural language,Human-based,2,3,1
+107,Mitchell et al. 2019,M/S,,,,
+108,Gebru et al. 2021,M/S,,,,
+109,Arnold et al. 2019,M/S,,,,
+110,Raji et al. 2020,M/S,,,,
+111,EU AI Act 2021,M/S,,,,
+112,NIST AI RMF 2023,M/S,,,,
+113,ISO/IEC 42001 2023,M/S,,,,
+114,IEEE 7001-2021,M/S,,,,
+115,Lapuschkin et al. 2019,CV,Heatmap,Functional,2,4,2
+116,Kindermans et al. 2019,CV,Heatmap,Functional,2,4,2
+117,Adebayo et al. 2018,CV,Heatmap,Functional,2,5,2
+118,Sturmfels et al. 2020,CV,Heatmap,Functional,2,4,2
+119,Sundararajan & Taly 2020,NLP,Feature attribution,Functional,2,3,1
+120,Strumbelj & Kononenko 2014,CML,Feature attribution,Functional,2,4,2
+121,TF Explain 2019,CV,Heatmap,Functional,2,4,2
+122,Biecek 2018,CML,Feature attribution,Functional,2,5,2
+123,Mothilal et al. 2020b,CML,Counterfactual,Functional,3,4,2
+124,Pfau et al. 2024,NLP,Natural language,Human-based,3,3,2
+125,Pedregosa et al. 2011,CML,Feature weights,Functional,2,6,2
